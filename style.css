@@ -1,0 +1,100 @@
+
+* {
+  margin: 0;
+}
+body {
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 5%;
+  background-color: white;
+  position: relative;
+
+}
+
+.flag1 {
+ width: 320px;
+ margin: 20px;
+ padding: 20px;
+}
+
+.black{
+  background-color: black;
+  position: relative;
+  width: 320px;
+    height: 80px;
+
+}
+
+.red {
+  background-color: red;
+  position: relative;
+  width: 320px;
+    height: 80px;
+}
+
+.yellow {
+  background-color: yellow;
+  position: absolute;
+  width: 320px;
+  height: 80px;
+}
+
+.flag2 {
+  width: 320px;
+  margin: 40px;
+  padding: 40px;
+}
+
+.flag1:hover .black{
+  background-color: orange;
+
+}
+
+.flag1:hover .red{
+  background-color: white;
+  
+}
+
+.flag1:hover .yellow{
+  background-color: green;
+  
+}
+
+.flag2:hover .blue{
+  background-color: orange;
+
+}
+
+.flag2:hover .white{
+  background-color: pink;
+  
+}
+
+.flag2:hover .test{
+  background-color: green;
+  
+}
+
+.blue{
+  background-color: blue;
+  width: 100px;
+    height: 320px;
+    display: inline-block;
+
+}
+
+.white {
+  background-color: white;
+  width: 100px;
+    height: 320px;
+    display: inline-block;
+}
+
+.test {
+  background-color: red;
+  width: 100px;
+    height: 320px;
+    display: inline-block;
+}
+
+

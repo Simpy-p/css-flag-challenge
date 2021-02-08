@@ -1,0 +1,67 @@
+
+* {
+  margin: 0;
+}
+
+
+.flag1 {
+ width: 320px;
+ height: 100px;
+
+}
+
+.black{
+  background-color: black;
+  position: absolute;
+  width: 320px;
+  height: 100px;
+
+}
+
+.red {
+  background-color: red;
+  position: absolute;
+  width: 320px;
+    height: 100px;
+}
+
+.yellow {
+  background-color: yellow;
+  position: absolute;
+  width: 320px;
+  height: 100px;
+}
+
+.flag1:hover {
+  display: none;
+}
+
+.flag2 {
+  width: 320px;
+
+}
+
+
+.blue{
+  background-color: blue;
+  width: 100px;
+    height: 320px;
+    display: inline-block;
+
+}
+
+.white {
+  background-color: white;
+  width: 100px;
+    height: 320px;
+    display: inline-block;
+}
+
+.test {
+  background-color: red;
+  width: 100px;
+    height: 320px;
+    display: inline-block;
+}
+
+
