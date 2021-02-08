@@ -6,13 +6,13 @@
 
 .flag1 {
  width: 320px;
- height: 100px;
+ position: absolute;
+ 
 
 }
 
 .black{
   background-color: black;
-  position: absolute;
   width: 320px;
   height: 100px;
 
@@ -20,14 +20,12 @@
 
 .red {
   background-color: red;
-  position: absolute;
   width: 320px;
     height: 100px;
 }
 
 .yellow {
   background-color: yellow;
-  position: absolute;
   width: 320px;
   height: 100px;
 }
@@ -45,7 +43,7 @@
 .blue{
   background-color: blue;
   width: 100px;
-    height: 320px;
+    height: 300px;
     display: inline-block;
 
 }
@@ -53,14 +51,14 @@
 .white {
   background-color: white;
   width: 100px;
-    height: 320px;
+    height: 300px;
     display: inline-block;
 }
 
 .test {
   background-color: red;
   width: 100px;
-    height: 320px;
+    height: 300px;
     display: inline-block;
 }
 
